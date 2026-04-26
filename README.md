@@ -60,4 +60,18 @@ Input * output dari nafriiii
 </p>
 
 ## 4. Output WEB dengan Database Mysql 
-
+- Tampilan Login
+yang dimana terdapat 2 field untuk menginputkan email dan password dan ada button untuk login dan register.
+<p align="center">
+  <img src="asset/5.jpeg">
+</p>
+- Tampilan Register
+berisi field untuk menginputkan email,username,dan password
+<p align="center">
+  <img src="asset/6.jpeg">
+</p>
+- Tampilan Dashboard
+berisi semua username dan email yang sebelumnya sudah dibuat
+<p align="center">
+  <img src="asset/7.jpeg">
+</p>
