@@ -39,15 +39,19 @@
 
 Git branch adalah fitur pada Git yang digunakan untuk membuat cabang terpisah dari kode utama dalam suatu project. Dengan adanya branch, seorang developer dapat mengerjakan fitur baru, melakukan perbaikan bug, atau melakukan eksperimen tanpa mengganggu kode utama yang biasanya berada pada branch main. Konsep ini memungkinkan setiap perubahan dilakukan secara terpisah sehingga lebih aman dan terstruktur. Misalnya, dalam pembuatan website, developer dapat membuat branch seperti fitur-login atau fitur-register untuk mengembangkan masing-masing fitur, kemudian setelah selesai dan diuji, perubahan tersebut dapat digabungkan kembali ke branch utama. Dengan demikian, git branch sangat membantu dalam kolaborasi tim, menjaga kestabilan project, serta mempermudah pengelolaan pengembangan perangkat lunak.
 
-## 3. Tutorial Giot Branch & Output WEB
+## 3. Tutorial Git Branch & Output WEB
 
 ### Git branch
 buka repository yang ingin digunakan. lalu pilih main dan pilih create branch
 <p align="center">
   <img src="asset/1.png">
 </p>
+lalu buka settings pada repository tersebut dan pilih collaborators dan masukkan username github teman yang akan diajak
+<p align="center">
+  <img src="asset/2.png">
+</p>
 
-### Daftar Menu
+### 
 <p align="center">
   <img src="asset/daftar.png">
 </p>
