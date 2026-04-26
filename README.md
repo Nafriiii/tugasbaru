@@ -75,3 +75,8 @@ berisi semua username dan email yang sebelumnya sudah dibuat
 <p align="center">
   <img src="asset/7.jpeg">
 </p>
+- Tampilan Database Mysql
+sebagaii tempat menyimpan data yang sudah dibuat sebelumnya
+<p align="center">
+  <img src="asset/8.jpeg">
+</p>
