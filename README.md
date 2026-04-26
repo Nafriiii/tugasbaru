@@ -48,20 +48,7 @@ buka repository yang ingin digunakan. lalu pilih main dan pilih create branch
 </p>
 lalu buka settings pada repository tersebut dan pilih collaborators dan masukkan username github teman yang akan diajak
 <p align="center">
-  <img src="asset/2.png">
+  <img src="asset/2.jpeg">
 </p>
 
-### 
-<p align="center">
-  <img src="asset/daftar.png">
-</p>
 
-### Edit
-<p align="center">
-  <img src="asset/edit.png">
-</p>
-
-### Delete
-<p align="center">
-  <img src="asset/delete.png">
-</p>
