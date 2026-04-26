@@ -3,7 +3,7 @@
 
 <br>
 
-<h2 align="center">TUGAS COTS 7-8</h2>
+<h2 align="center">LAPORAN PRAKTIKUM 7</h2>
 <h2 align="center">CRUD DATA MAHASISWA</h2>
 
 <br><br>
@@ -35,15 +35,7 @@
 
 ## 1. Dasar Teori
 
-**HTML** atau HyperText Markup Language merupakan bahasa dasar yang digunakan untuk membangun sebuah web dimana HTML menangani elemen-elemen dasar pada pembangunan sebuah website.  
-
-**CSS & Bootstrap** merupakan framework yang membantu memperindah tampilan dari laman web. Aplikasi ini menggunakan Bootstrap 5 melalui CDN untuk mempercepat pengembangan antarmuka web, mencakup pembuatan tabel, tombol, dan form input.  
-
-**Pure Node.js** Aplikasi ini dibangun menggunakan Node.js murni tanpa framework tambahan (seperti Express.js). Routing dan penyajian data JSON ditangani langsung menggunakan modul bawaan `http` dan `fs`.  
-
-**JQuery & DataTables** jQuery adalah library Javascript yang mempermudah manipulasi DOM. Dalam tugas ini, jQuery digunakan bersama plugin **DataTables** untuk menampilkan, memfilter, dan memanipulasi data dalam bentuk tabel secara dinamis yang bersumber dari API JSON lokal.  
-
----
+Git branch adalah fitur pada Git yang digunakan untuk membuat cabang terpisah dari kode utama dalam suatu project. Dengan adanya branch, seorang developer dapat mengerjakan fitur baru, melakukan perbaikan bug, atau melakukan eksperimen tanpa mengganggu kode utama yang biasanya berada pada branch main. Konsep ini memungkinkan setiap perubahan dilakukan secara terpisah sehingga lebih aman dan terstruktur. Misalnya, dalam pembuatan website, developer dapat membuat branch seperti fitur-login atau fitur-register untuk mengembangkan masing-masing fitur, kemudian setelah selesai dan diuji, perubahan tersebut dapat digabungkan kembali ke branch utama. Dengan demikian, git branch sangat membantu dalam kolaborasi tim, menjaga kestabilan project, serta mempermudah pengelolaan pengembangan perangkat lunak.
 
 ## 2. Struktur Direktori
 
