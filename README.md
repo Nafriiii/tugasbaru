@@ -4,7 +4,9 @@
 <br>
 
 <h2 align="center">LAPORAN PRAKTIKUM 7</h2>
-<h2 align="center">CRUD DATA MAHASISWA</h2>
+<p align="center">
+  <img src="asset/logo.png">
+</p>
 
 <br><br>
 
