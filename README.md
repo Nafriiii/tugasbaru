@@ -42,26 +42,28 @@ Git branch adalah fitur pada Git yang digunakan untuk membuat cabang terpisah da
 ## 3. Tutorial Git Branch & Output WEB
 
 ### Git branch
-buka repository yang ingin digunakan. lalu pilih main dan pilih create branch
+1. Buka repository yang ingin digunakan. lalu pilih main dan pilih create branch
 <p align="center">
   <img src="asset/1.png">
 </p>
-lalu buka settings pada repository tersebut dan pilih collaborators dan masukkan username github teman yang akan diajak
+2. lalu buka settings pada repository tersebut dan pilih collaborators dan masukkan username github teman yang akan diajak
 <p align="center">
-  <img src="asset/2.png">
+  <img src="asset/2.jpeg">
+</p>
+3. Input dari ban4na718
+<p align="center">
+  <img src="asset/3.jpeg">
+</p>
+Input dari Nafriiii
+<p align="center">
+  <img src="asset/4.jpeg">
+</p>
+4. Output dari ban4na718
+<p align="center">
+  <img src="asset/5.jpeg">
+</p>
+Output dari Nafriiii
+<p align="center">
+  <img src="asset/6.jpeg">
 </p>
 
-### 
-<p align="center">
-  <img src="asset/daftar.png">
-</p>
-
-### Edit
-<p align="center">
-  <img src="asset/edit.png">
-</p>
-
-### Delete
-<p align="center">
-  <img src="asset/delete.png">
-</p>
