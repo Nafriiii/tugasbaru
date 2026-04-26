@@ -39,9 +39,8 @@
 
 Git branch adalah fitur pada Git yang digunakan untuk membuat cabang terpisah dari kode utama dalam suatu project. Dengan adanya branch, seorang developer dapat mengerjakan fitur baru, melakukan perbaikan bug, atau melakukan eksperimen tanpa mengganggu kode utama yang biasanya berada pada branch main. Konsep ini memungkinkan setiap perubahan dilakukan secara terpisah sehingga lebih aman dan terstruktur. Misalnya, dalam pembuatan website, developer dapat membuat branch seperti fitur-login atau fitur-register untuk mengembangkan masing-masing fitur, kemudian setelah selesai dan diuji, perubahan tersebut dapat digabungkan kembali ke branch utama. Dengan demikian, git branch sangat membantu dalam kolaborasi tim, menjaga kestabilan project, serta mempermudah pengelolaan pengembangan perangkat lunak.
 
-## 3. Tutorial Git Branch & Output WEB
+## 3. Tutorial Git Branch 
 
-### Git branch
 1. Buka repository yang ingin digunakan. lalu pilih main dan pilih create branch
 <p align="center">
   <img src="asset/1.png">
@@ -50,21 +49,15 @@ Git branch adalah fitur pada Git yang digunakan untuk membuat cabang terpisah da
 <p align="center">
   <img src="asset/2.jpeg">
 </p>
-3. Input dari ban4na718
+3. Input * output dari ban4na718
 <p align="center">
   <img src="asset/3.jpeg">
 </p>
 
-Input dari Nafriiii
+Input * output dari nafriiii
 <p align="center">
   <img src="asset/4.jpeg">
 </p>
-4. Output dari ban4na718
-<p align="center">
-  <img src="asset/5.jpeg">
-</p>
-Output dari Nafriiii
-<p align="center">
-  <img src="asset/6.jpeg">
-</p>
+
+## 4. Output WEB dengan Database Mysql 
 
